@@ -1,5 +1,6 @@
 import React from 'react';
-import FriendListItem from './FriendListItem'; // Шлях до компонента FriendListItem
+import FriendListItem from './FriendListItem';
+import './FriendList.css';
 
 function FriendList({ friends }) {
   return (
