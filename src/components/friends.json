@@ -1,0 +1,26 @@
+[
+    {
+      "id": "0",
+      "name": "Mango",
+      "isOnline": true,
+      "avatar": "https://cdn.fakercloud.com/avatars/alesrhounek_128.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Rosie Simpson",
+      "isOnline": false,
+      "avatar": "https://cdn.fakercloud.com/avatars/hebertcisco_128.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Adrianne Clancy",
+      "isOnline": true,
+      "avatar": "https://cdn.fakercloud.com/avatars/operatino_128.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Brynn Stewart",
+      "isOnline": false,
+      "avatar": "https://cdn.fakercloud.com/avatars/turkoptimum_128.jpg"
+    }
+  ]
